@@ -127,4 +127,16 @@ footer {
         flex-direction: column; /* Coloca os links um abaixo do outro */
         gap: 10px;
     }
+header .logo {
+        width: 150px; /* Diminui o tamanho da logo */
+    }
+
+    .musica-titulo {
+        font-size: 1em; /* Diminui o tamanho da fonte do título da música */
+    }
+
+    .dica-post h3 {
+        font-size: 1.2em; /* Diminui o tamanho dos títulos das dicas */
+    }
 }
+
