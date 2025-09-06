@@ -147,7 +147,7 @@ header .logo {
 }
 
 .jogos-container {
-    background-color: #FFFFFF;
+    background-color: #FFFFFF; /* Cor de fundo branca */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
@@ -179,4 +179,5 @@ header .logo {
     font-weight: bold;
     color: #FFD700;
 }
+
 
