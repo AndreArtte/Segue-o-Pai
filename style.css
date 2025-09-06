@@ -120,3 +120,11 @@ footer {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
     text-transform: uppercase;
 }
+
+@media (max-width: 768px) {
+    /* Ajustes para telas menores, como tablets e celulares */
+    nav ul {
+        flex-direction: column; /* Coloca os links um abaixo do outro */
+        gap: 10px;
+    }
+}
